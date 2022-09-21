@@ -26,7 +26,7 @@ make
 ```
 
 
-##References
+## References
 
 [QT 5.15 - GUI Framework](https://doc.qt.io/qt-5.15/index.html)
 
