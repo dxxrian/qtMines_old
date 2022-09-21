@@ -1,5 +1,5 @@
 # qtMines
-A game for empathetic nerds - because you can safe lifes while sitting on the PC and clicking buttons.
+A game for empathetic nerds - because you can save lifes while sitting on the PC and clicking buttons.
 
 ---
 
